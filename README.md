@@ -1,5 +1,5 @@
 # Conto-personalizado
-## Criando caixa de formulário personalizado
+## Criando caixa de formulário personalizada
 
  ![TelaPrincipal](https://github.com/NandoCruz/Contato-personalizado/blob/main/FormularioPersonalizado.png)
 
